@@ -1,2 +1,3 @@
 <?php phpinfo(); ?>
 <?="Teste";?>
+Ólá!
