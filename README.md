@@ -60,7 +60,7 @@ exctract from: git log novobranch --pretty=format:" * %h - %ad : %s"
  * 1dcfc29 - Sun Nov 29 22:27:29 2015 -0200 : alterado arquivot.txt
  * a5d716b - Sun Nov 29 22:25:00 2015 -0200 : Teste primeiro commit
 
-#### Branch novobreanch [8 commits](https://github.com/fholetz/git-code-education/commits/nprojeto1.1)
+#### Branch projeto1.1 [8 commits](https://github.com/fholetz/git-code-education/commits/nprojeto1.1)
 ```st
 exctract from: git log projeto1.1 --pretty=format:" * %h - %ad : %s"
 ```
