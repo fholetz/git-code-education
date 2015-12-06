@@ -1,0 +1,2 @@
+Esta uma nova biblioteca de funcionalidades
+funcionalidade basica 1
