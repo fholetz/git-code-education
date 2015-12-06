@@ -2,3 +2,4 @@ funcionalidade 1
 Adicionada funcionalidade 2
 Adicionada funcionalidade 3
 Está na hora de disponibilizar uma release
+corrigindo bug na recem implementada funcionalidade 3
