@@ -1,2 +1,3 @@
 Esta uma nova biblioteca de funcionalidades
 funcionalidade basica 1
+corrigindo bug na funcionalidade basica 1
